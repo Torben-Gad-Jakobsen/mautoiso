@@ -1,2 +1,2 @@
 # mautoiso
-New version of super grub2 with addons for ubuntu iso
+New version of super grub2 autoiso.cfg with addons for ubuntu iso
